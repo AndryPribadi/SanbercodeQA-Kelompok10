@@ -1,5 +1,6 @@
 # SanbercodeQA-Kelompok10
-1.Azman Zakka Hadiyan 
+1.Azman Zakka Hadiyan
+
 2.Muhammad Syidiq Susanto
 3.Andry Pribadi
 4.Yantrisnandra Akbar Maulino
